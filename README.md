@@ -7,7 +7,7 @@ The goal of this project is to build a predictive model to identify patients who
 
 ## Data
 
-The analysis is based on the dataset `20250903_x_ imc.csv`. Key features used in the model include:
+Key features used in the model include:
 
 *   Patient demographics (e.g., age, sex)
 *   Disease information (`disease_id`)
